@@ -13,7 +13,7 @@ Desde chico me fascinó la tecnología y hoy busco convertir esa pasión en proy
 
 ## 🚀 Tecnologías que uso  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,git,github" />
 </p>
 
 🔹 Siempre en constante aprendizaje y perfeccionamiento.  
