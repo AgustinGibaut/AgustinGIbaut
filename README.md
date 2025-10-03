@@ -1,7 +1,5 @@
 # 👋 Hola, soy Agustín Gibaut  
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="typing" />
-</p>
+
  Frontend Developer |Cordoba, Argentina
 
 Soy un **desarrollador frontend** de Córdoba, Argentina 🇦🇷.  
@@ -16,16 +14,6 @@ Desde chico me fascinó la tecnología y hoy busco convertir esa pasión en proy
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,git,github" />
 </p>
 
-🔹 Siempre en constante aprendizaje y perfeccionamiento.  
-🔹 Amante de la simplicidad y el diseño minimalista.  
-🔹 Experiencia en maquetación, componentes reutilizables y optimización de rendimiento.  
 
----
 
-## 📊 Mis estadísticas en GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgustinGIbaut&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinGIbaut&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165"/>
-</p>
 
----
