@@ -19,19 +19,7 @@ Aquí puedes ver un resumen de mis estadísticas en GitHub. ¡Siempre en constan
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AgustinGibaut&theme=radical&hide_border=true)  
 
----
 
-## ⚙️ Tecnologías que uso  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,kivy,sqlite,html,css,js,bootstrap,git,github" />
-</p>
-
----
-
-## 🔥 Lenguajes más usados  
-Basado en mis repositorios en GitHub, mi lenguaje principal es **Python** (100% de uso en repositorios destacados). ¡Sigo expandiendo mis habilidades en backend y web!
-
----
 
 ## 💡 Sobre mí  
 - 🎯 En constante aprendizaje y mejora continua.  
@@ -43,7 +31,7 @@ Basado en mis repositorios en GitHub, mi lenguaje principal es **Python** (100% 
 ---
 
 ## 📫 Cómo contactarme  
-📧 **Email:** agustingibaut@gmail.com  
+📧 **Email:** agusgibaut693@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/agustin-gibaut](https://www.linkedin.com/in/agustin-gibaut/)  
 🐙 **GitHub:** [github.com/AgustinGibaut](https://github.com/AgustinGibaut)
 
