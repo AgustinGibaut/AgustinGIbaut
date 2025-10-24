@@ -1,39 +1,33 @@
-# 👋 Hola, soy Agustín Gibaut  
+## Hi there 👋 I'm Agustin Gibaut  
+Thanks for taking a look at my GitHub account.
 
-**Desarrollador de software -> Estudiante | Córdoba, Argentina**
+I'm a Backend Developer whit focus on python and Software Development student with experience in Flask, FastApi and Django.
+My approach centers on enhancing teamwork, fostering clear communication, and tackling development challenges with unwavering positivity.
 
-![Goku Powering Up](https://gist.githubusercontent.com/Fabian-Martinez-Rincon/2451a8f99ec3a84f3bda4d09cc0b7182/raw/goku.gif)
+🚶 **About me**  
+I'm 20 years old and from Córdoba Capital, Argentina.  
+I’m passionate about development because it connects me with my creative side and constantly challenges me to become a better teammate and problem solver.  
+In my free time, I enjoy playing video games and exploring new technologies.  
+Feel free to reach out if you think there’s an interesting opportunity — I’m always open to new challenges and learning experiences.
 
-Soy un **desarrollador de software** de Córdoba, Argentina 🇦🇷.  
-Desde chico me apasiona la computación y el mundo de la tecnología 💻.  
-Hoy enfoco mi carrera en el desarrollo con **Python**, creando aplicaciones tanto de escritorio como web.  
 
 ---
 
-## 📊 GitHub Stats  
-Aquí puedes ver un resumen de mis estadísticas en GitHub. ¡Siempre en constante evolución!  
+### 🌐 Connect with me
 
-![Agustín Gibaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgustinGibaut&show_icons=true&theme=radical&hide_border=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinGibaut&layout=compact&theme=radical&hide_border=true)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AgustinGibaut&theme=radical&hide_border=true)  
-
-
-
-## 💡 Sobre mí  
-- 🎯 En constante aprendizaje y mejora continua.  
-- 🧠 Me encanta resolver problemas mediante la programación.  
-- 🌱 Actualmente explorando desarrollo backend y aplicaciones multiplataforma.  
-- 💬 Me gusta compartir lo que aprendo y colaborar en proyectos interesantes.  
-- 🔥 Fanático de Dragon Ball Z, ¡como Goku, siempre powering up mis skills!  
+- 💼 [LinkedIn](https://www.linkedin.com/in/agustin-gibaut/)  
+- 📧 [Email](mailto:agusgibaut693@gmail.com)  
 
 ---
 
-## 📫 Cómo contactarme  
-📧 **Email:** agusgibaut693@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/agustin-gibaut](https://www.linkedin.com/in/agustin-gibaut/)  
-🐙 **GitHub:** [github.com/AgustinGibaut](https://github.com/AgustinGibaut)
+### 📊 GitHub Stats
 
----
+![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgustinGibaut&show_icons=true&theme=radical)
 
+### 🧩 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinGibaut&layout=compact&theme=radical)
+
+### 📂 My Repositories
+
+👉 [Check out my repositories here](https://github.com/AgustinGibaut?tab=repositories)
