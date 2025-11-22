@@ -6,11 +6,10 @@ Soy **estudiante de Desarrollo Frontend** de 20 años, apasionado por crear inte
 
 **Tecnologías que estoy manejando:**
 - React (Hooks, componentes funcionales, useState, useEffect, etc.)
-- JavaScript ES6+
+- JavaScript
 - Typeacript
 - Git & GitHub
 - Consumo de APIs REST
-- 
 
 Mi enfoque es seguir mejorando, escribir código limpio y colaborar en proyectos reales. ¡Siempre abierto a feedback y nuevas oportunidades!
 
@@ -18,7 +17,7 @@ Mi enfoque es seguir mejorando, escribir código limpio y colaborar en proyectos
 - Tengo 20 años  
 - Vivo en Córdoba, Argentina 🇦🇷  
 - Actualmente estudiando y creando proyectos personales  
-- Busco mi primera experiencia laboral o prácticas en Frontend / React
+- Busco mi primera experiencia laboral en Frontend / React.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinGibaut&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/AgustinGibaut)
 
