@@ -2,29 +2,26 @@
 
 Gracias por visitar mi perfil de GitHub.
 
-Soy **estudiante de Desarrollo Frontend** de 20 años, apasionado por crear interfaces modernas y funcionales con **React** y JavaScript.
+Soy **estudiante de Desarrollo Frontend** de 20 años, apasionado por crear interfaces modernas, performantes y accesibles con **React** y JavaScript.  
+Pero no todo es frontend: **¡me encanta el poder y la elegancia del shell scripting en Linux!** 🐧💻  
+Nada como automatizar tareas, escribir scripts potentes en Bash y dominar la terminal.
 
-**Tecnologías que estoy manejando:**
-- React (Hooks, componentes funcionales, useState, useEffect, etc.)
-- JavaScript
-- Typeacript
-- Git & GitHub
-- Consumo de APIs REST
+### 🚀 Tecnologías que manejo
 
-Mi enfoque es seguir mejorando, escribir código limpio y colaborar en proyectos reales. ¡Siempre abierto a feedback y nuevas oportunidades!
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,js,ts,react,angular,html,css,tailwind,python,git,github,vite&perline=8" />
+  </a>
+</p>
 
-## 🚶 Sobre mí
-- Tengo 20 años  
-- Vivo en Córdoba, Argentina 🇦🇷  
-- Actualmente estudiando y creando proyectos personales  
-- Busco mi primera experiencia laboral en Frontend / React.
+> (¡Sí, también estoy empezando con Angular y Python para ser cada vez más full-stack!)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinGibaut&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/AgustinGibaut)
+### 🔧 Actualmente estoy
+- Perfeccionando React + TypeScript + Tailwind
+- Experimentando con Angular
+- Escribiendo scripts en Bash y Python para automatizar todo
+- Buscando mi **primera experiencia laboral como Frontend Developer** (¡o Junior Full-Stack!)
 
-![Profile views](https://komarev.com/ghpvc/?username=AgustinGibaut&style=flat-square&color=blue)
-
-## Algunos de mis proyectos
-
-[![App de Gastos con LocalStorage](https://github-readme-stats.vercel.app/api/pin/?username=AgustinGibaut&repo=LocalStorageAppGasto&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/AgustinGibaut/LocalStorageAppGasto)
-
+> ¡Siempre abierto a feedback, colaboraciones y oportunidades!  
+> Si te gusta el frontend limpio y también te emociona un buen script en la terminal, ¡vamos a hablar!
 
