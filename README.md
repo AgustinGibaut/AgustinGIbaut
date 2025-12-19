@@ -1,27 +1,33 @@
-# ¡Hola! 👋 Soy Agustín Gibaut
+# ¡Hola! Soy Agustín Gibaut 👋
 
-Gracias por visitar mi perfil de GitHub.
 
-Soy **estudiante de Desarrollo Frontend** de 20 años, apasionado por crear interfaces modernas, performantes y accesibles con **React** y JavaScript.  
-Pero no todo es frontend: **¡me encanta el poder y la elegancia del shell scripting en Linux!** 🐧💻  
-Nada como automatizar tareas, escribir scripts potentes en Bash y dominar la terminal.
 
-### 🚀 Tecnologías que manejo
+### 💻 Desarrollador de Software | Especialista en React.js
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,js,ts,react,angular,html,css,tailwind,python,git,github,vite&perline=8" />
-  </a>
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-> (¡Sí, también estoy empezando con Angular y Python para ser cada vez más full-stack!)
+---
 
-### 🔧 Actualmente estoy
-- Perfeccionando React + TypeScript + Tailwind
-- Experimentando con Angular
-- Escribiendo scripts en Bash y Python para automatizar todo
-- Buscando mi **primera experiencia laboral como Frontend Developer** (¡o Junior Full-Stack!)
+### 📊 Mis Estadísticas de GitHub
 
-> ¡Siempre abierto a feedback, colaboraciones y oportunidades!  
-> Si te gusta el frontend limpio y también te emociona un buen script en la terminal, ¡vamos a hablar!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AgustinGibaut&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Agustín" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinGibaut&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" width="45%" />
+</p>
+---
 
+<p align="right">
+  <i>"El código es poesía escrita en lógica."</i>
+</p>
